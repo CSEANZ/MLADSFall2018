@@ -30,4 +30,4 @@
 ##### Platform
 
 * [Ready to use Platform: Custom Jupyterhub Linux VM](https://github.com/michhar/custom-jupyterhub-linux-vm)
-* [gpu docker stacks](https://github.com/Azadehkhojandi/gpu-jupyter-docker-stacks)
+* [GPU Docker Stacks](https://github.com/Azadehkhojandi/gpu-jupyter-docker-stacks)
